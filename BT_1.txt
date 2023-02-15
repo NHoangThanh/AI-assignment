@@ -1,0 +1,32 @@
+Câu 1:
+AI (Artificial Intelligence) hay Trí Tuệ Nhân Tạo là thuật ngữ mô tả trí thông minh của máy
+móc mà do con người tạo ra. Nó mô phỏng lại những quá trình học hỏi, liên kết các thông tin,
+tư duy, suy luận và đưa ra những quyết định. Vì thế, những quyết định của chúng đưa ra có độ 
+tin cậy và chuẩn xác cao hơn. Đặc biệt, AI không đơn thuần là hàng trăm, hàng ngàn dòng code
+logic, AI sẽ tự đánh giá tình huống và đưa ra phương án tối ưu nhất.Ngoài ra, nó còn có thể 
+đưa ra một số ý tưởng mới mà con người chưa nghĩ tới.
+Câu 2:
+AI là cổ máy có khả năng tư duy logic, đưa ra quyết định giống như con người
+Machine Learning là bộ phận nhỏ bên trong AI, được xem như một tính năng. Nó hoạt động nhờ 
+data mà con người cung cấp và từ đó chẩn đoán, dự đoán.
+Deep Learning lại là phần tử con bên trong Machine Learing, được biết để với cái tên là học
+sâu. Chúng sẽ học sâu trong từng bit data mà người dùng huấn luyện nó.
+Câu 3:
+Lee Sedol, người đã từng vô địch 18 lần môn cờ vây. Anh ta được xem là người giỏi nhất trong
+bộ môn này. Nhưng vào năm 2017, một chương trình AlphaGo Zero được xây dựng trên nền tảng trí
+tuệ nhân tạo đã đánh thắng với tỷ số 4-1 trước cao thủ cờ vây. Điều này cho thấy sức mạnh khủng
+khiếp thế nào về mảng AI trong đời sống. Từ đó cơn sốt về trí tuệ nhân tạo phủ sóng cả thế giới.
+So với thời gian khổ luyện để trở thành cao thủ cờ vây và một chương trình chỉ được huấn luyện
+40 ngày. Ngoài ra trí tuệ nhân tạo còn được ứng dụng trên mọi lĩnh vực toàn cầu như là giao thông
+vận tải, nông nghiệp, khoa học, y tế.
+Câu 4:
+Mạng nơ-ron là một phương thức trong trí tuệ nhân tạo, được lấy cảm hứng từ bộ não con người.
+Một loại quy trình học mà sử dụng các nút hoặc nơ-rơn liên kết với nhau, có cấu trúc phân lớp
+giống như bộ não con người. Chip được sử dụng là loại SoC, nó bao gồm cả CPU, bộ nhớ hệ thống,
+bộ điều khiển ngoại vi, bộ xử lý đồ họa, mạch mạng thần kinh chuyên dụng, modem vô tuyến
+Dòng chip AI Ascend với chỉ số vận hành điểm nổi bán chính xác FP16, tính toán số nguyên chính
+xác INT8, được sử dụng nhiều vào lĩnh lực trí tuệ nhân tạo
+Câu 5:
+Theo ý kiến cá nhân, xu hướng các mảng liên quan về trí tuệ như là: Big Data, Phát hiện và phòng
+ngừa tự động, Dự đoán hành vi, Y tế,... sẽ có bước đột phá lớn, có thể tạo ra sự thay đổi lớn
+ảnh hưởng nền toàn cầu. AI gần như đã chiếm toàn bộ các lĩnh vực mọi mặt trong đời sống
